@@ -30,3 +30,5 @@ while i<len(n_list):
     isum += n_list[i]
     i += 1
 print(isum)
+#len을 이용해 list의 크기를 지정해준다.
+
